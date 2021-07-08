@@ -1,1 +1,1 @@
-# GRIP-Internship-Task-1
+This repository consists of one the task assigned by The Sparks Foundation as a part of Data Science and Businees Analytics internship. The project deals with use of Logistic Regression to train supervised data of student study hours and their respective scores and the objective was to predict the score of a student who has studied for 9.25 hours.
